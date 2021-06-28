@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **ravleensbhola@gmail.com**
 
-- ⚡ Hobbies **Reading novels, Writing**
+- ⚡ Hobbies **Reading novels, Writing, Coding**
 
 
 <h3 align="left">Languages and Tools:</h3>
