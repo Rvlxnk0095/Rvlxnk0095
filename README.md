@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravleen kaur</h1>
 <h3 align="center">Just a girl learning programming.</h3>
-<img align="right" alt="Coding" width="200" srcs="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
+
 
 - 🌱 I’m currently learning **machine learning.**
 
